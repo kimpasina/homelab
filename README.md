@@ -1,7 +1,3 @@
-# 🏠 Mon lab
-
-> Un environnement d'apprentissage et d'expérimentation pour explorer les technologies modernes
-
 ## 📖 À propos
 
 Ce repository documente l'évolution de mon laboratoire personnel. C'est un espace d'apprentissage où j'expérimente avec différentes technologies, configurations et meilleures pratiques.
