@@ -26,7 +26,8 @@ Ce repository documente l'évolution de mon laboratoire personnel. C'est un espa
 ## 📊 Infrastructure
 
 ### Matériel
-*À venir*
+- **[Supermicro 2U CSE-825TQC-R1K03LPB](docs/hardware/Supermicro%202U%20CSE-825TQC-R1K03LPB.md)**
+- **[Dell Optiplex 3070 micro](docs/hardware/Dell%20Optiplex%203070%20micro.md)**
 
 ### Réseau
 *À venir*
