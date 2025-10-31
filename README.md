@@ -17,7 +17,30 @@ Ce repository documente l'évolution de mon laboratoire personnel. C'est un espa
 
 ## 🚀 Services déployés
 
-*À venir*
+### 🎬 Stack *arr
+*Services inclus :*
+- **[Radarr](docs/services/arr_stack/radarr.md)**
+- **[Sonarr](docs/services/arr_stack/sonarr.md)**
+- **[Prowlarr](docs/services/arr_stack/prowlarr.md)**
+- *[Voir le Docker Compose complet](docs/services/arr_stack/arr_stack.md)*
+
+---
+
+### 🌐 Stack téléchargement
+*Services inclus :*
+- **[qBitorrent](docs/services/download_stack/qBitorrent.md)**
+- **[Gluetun (VPN)](docs/services/download_stack/Gluetun.md)**
+- *[Voir le Docker Compose complet](docs/services/download_stack/download_stack.md)*
+
+---
+
+### 📼 Stack Média
+- **[Plex](docs/services/media_stack/plex.md)** ([Docker Compose](docs/services/media_stack/media_stack.md))
+
+---
+
+### 🛡️ Stack VPN
+- **[WireGuard Easy](docs/services/vpn_stack/wireguard-easy.md)** ([Docker Compose](docs/services/vpn_stack/vpn_stack.md))
 
 ## 📊 Infrastructure
 
