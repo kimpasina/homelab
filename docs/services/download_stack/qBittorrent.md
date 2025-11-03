@@ -48,3 +48,26 @@ volumes:
 
 ## Configuration
 
+### Paramètres qBittorrent
+
+| Downloads | Connection |
+|:---:|:---:|
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/8c78a98f-a2f3-413d-b7a0-208174032601" /> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/d6b145a0-f5ed-4bbe-b0ef-0c4557608ed0" /> |
+
+| Speed | BitTorrent |
+|:---:|:---:|
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/336f2597-0439-4002-b2f5-7e36348c512a" /> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/ef1cbf1f-fd62-49fe-8414-a91beb496bd2" /> |
+
+| Advanced |
+|:---:|
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/65fa98cb-b697-4bb3-8936-6f5e6c4a3794" /> |
+
+### Vérification du fonctionnement du VPN
+
+On peut vérifier si le VPN et le port forwarding fonctionnent correctement en téléchargeant un magnet link sur [ipleak.net](https://ipleak.net)
+
+| Test ipleak.net | IP du container |
+|:---:|:---:|
+| <img width="400" alt="image" src="https://github.com/user-attachments/assets/429da5e9-a777-4cfe-8dd8-ad81f9c6fc3c" /> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/bd83c1cc-c5c1-41bc-bf29-53b4bd636878" /> |
+
+
