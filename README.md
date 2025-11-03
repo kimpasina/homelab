@@ -28,7 +28,7 @@ Ce repository documente l'évolution de mon laboratoire personnel. C'est un espa
 
 ### 🌐 Stack téléchargement
 *Services inclus :*
-- **[qBitorrent](docs/services/download_stack/qBitorrent.md)**
+- **[qBittorrent](docs/services/download_stack/qBittorrent.md)**
 - **[Gluetun (VPN)](docs/services/download_stack/Gluetun.md)**
 - *[Voir le Docker Compose complet](docs/services/download_stack/download_stack.md)*
 
