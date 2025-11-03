@@ -30,6 +30,15 @@ Ce repository documente l'évolution de mon laboratoire personnel. C'est un espa
 
 ---
 
+### 🛠️ Stack Utilities
+*Services inclus :*
+- **[PairDrop](docs/services/utilities_stack/pairdrop.md)**
+- **[Syncthing](docs/services/utilities_stack/syncthing.md)**
+- **[Vaultwarden](docs/services/utilities_stack/vaultwarden.md)**
+- *[Voir le Docker Compose complet](docs/services/utilities_stack/utilities_stack.md)*
+
+---
+
 ### 📼 Stack Média
 - **[Plex](docs/services/media_stack/plex.md)** ([Docker Compose](docs/services/media_stack/media_stack.md))
 
