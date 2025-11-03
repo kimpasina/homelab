@@ -11,10 +11,6 @@ Ce repository documente l'évolution de mon laboratoire personnel. C'est un espa
 - Documenter mes apprentissages et configurations
 - Maintenir un environnement de test personnel
 
-## 🗂️ Structure du dépôt
-
-*À venir*
-
 ## 🚀 Services déployés
 
 ### 🎬 Stack *arr
