@@ -39,5 +39,5 @@
 #### Services/Fonctionnalités spéciales
 - Scripts automation :
     - `/usr/local/bin/backup_script/` - Backup Docker (03:00 AM)
-    - `/usr/local/bin/nas-backup-wol_script/` - WoL Dell T130 (03:45 AM)
+    - `/usr/local/bin/nas-backup-wol_script/` - WoL Dell T130 (02:45 AM)
     - `/usr/local/bin/nas-backup-shutdown_script/` - Shutdown Dell T130 (05:00 AM)
