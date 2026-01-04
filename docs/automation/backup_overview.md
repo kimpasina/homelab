@@ -27,9 +27,9 @@
 
 | Script                          | Heure | Serveur    | Description                                                                             | Documentation      |
 | ------------------------------- | ----- | ---------- |-----------------------------------------------------------------------------------------| ------------------ |
-| `wol_script.sh`                 | 02:45 | sth-prd-02 | Wake on LAN du backup                                                                   | [wol_script.md](docs/automation/wol_script.md)      |
+| `wol_script.sh`                 | 02:45 | sth-prd-02 | Wake on LAN du backup                                                                   | [wol_script](docs/automation/wol_script.md)      |
 | `docker-backup.sh`                | 03:00 | sth-prd-02 | Arrête tous les stacks Docker **sauf** `portainer_data`, `syncthing_shared`, `nfs_data` | —                  |
-| `nas-backup-shutdown_script.sh` | 05:00 | sth-prd-02 | Shutdown du backup via SSH                                                              | [shutdown_script.md](docs/automation/shutdown_script.md) |
+| `nas-backup-shutdown_script.sh` | 05:00 | sth-prd-02 | Shutdown du backup via SSH                                                              | [shutdown_script](docs/automation/shutdown_script.md) |
 
 ---
 
@@ -48,5 +48,5 @@
 
 * Utilisateur dédié `shutdown` sur le backup et peut uniquement éteindre le système.
 * Authentification SSH par clé pour le user `shutdown` et script init dans le backup pour ajouter `shutdown` dans les sudoers.
-* Les snapshots et la réplication sont exécutés via les **tasks natives TrueNAS** (récursives, planifiées, avec rétention).
+* Les snapshots et la réplication sont exécutés via TrueNAS.
 * Le backup est actif uniquement entre **02:45 et 05:00**.
