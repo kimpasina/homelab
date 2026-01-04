@@ -49,18 +49,22 @@ Ce repository documente l'évolution de mon laboratoire personnel. C'est un espa
 
 ## 📊 Infrastructure
 
+### Backup
+- **[Vue d'ensemble](docs/automation/backup_overview.md)**
+- **[Script Wake-on-LAN](docs/automation/wol_script.md)**
+- **[Script Shutdown](docs/automation/shutdown_script.md)**
+
 ### Matériel
 <img src="https://github.com/user-attachments/assets/9b8f6a73-5990-4937-9592-b4785410d040" alt="rack_visio2" width="270"/>
 
 - **[Supermicro 2U CSE-825TQC-R1K03LPB](docs/hardware/Supermicro%202U%20CSE-825TQC-R1K03LPB.md)**
-- **[Dell Optiplex 3070 micro](docs/hardware/Dell%20Optiplex%203070%20micro.md)**
+- **[Dell PowerEdge T130](docs/hardware/Dell%20T130.md)**
+- **[Dell Optiplex 5050](docs/hardware/Dell%20Optiplex%203070%20micro.md)**
 
 ### Réseau
 
 #### Diagramme réseau actuel
 <img src="https://github.com/user-attachments/assets/726aee50-753e-4cee-9d5d-84dbe3082a1f" alt="network_diagramm" width="600"/>
-
-
 
 ## 📄 Licence
 
