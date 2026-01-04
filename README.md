@@ -55,7 +55,7 @@ Ce repository documente l'évolution de mon laboratoire personnel. C'est un espa
 - **[Script Shutdown](docs/automation/shutdown_script.md)**
 
 ### Matériel
-<img src="https://github.com/user-attachments/assets/9b8f6a73-5990-4937-9592-b4785410d040" alt="rack_visio2" width="270"/>
+<img width="680" alt="rack_visio5" src="https://github.com/user-attachments/assets/b8d5978f-3f1b-45b4-9d1c-c0201e3dc960" />
 
 - **[Supermicro 2U CSE-825TQC-R1K03LPB](docs/hardware/Supermicro%202U%20CSE-825TQC-R1K03LPB.md)**
 - **[Dell PowerEdge T130](docs/hardware/Dell%20T130.md)**
